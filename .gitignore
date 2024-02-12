@@ -1,2 +1,3 @@
 node_modules
 ./alpacca-ai-worker/node_modules
+.idea
