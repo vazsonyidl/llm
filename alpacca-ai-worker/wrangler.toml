@@ -1,0 +1,7 @@
+name = "alpacca-ai-worker"
+main = "src/index.js"
+compatibility_date = "2024-02-12"
+workers_dev = true
+
+[ai]
+binding = "AI"
